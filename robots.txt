@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohfaedehae.tooksome.com/sitemap.xml
